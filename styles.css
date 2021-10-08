@@ -20,8 +20,11 @@ container{
     color: darkorange;
 }
 
-
 #bumper-btm-container {
+    color: darkorange;
+}
+
+#bumper-btm {
     color: darkorange;
 }
 
@@ -109,19 +112,31 @@ container{
     color: red;
 }
 
+#footer-div1 {
+    color: deeppink;
+}
+
+#footer-div2 {
+    color: deeppink;
+}
+
+#footer-div3 {
+    color: deeppink;
+}
+
+#footer-div4 {
+    color: deeppink;
+}
+
 .footer-ul {
     color: red;
 }
 
-.opt-li {
+.footer-li {
     color: red;
 }
 
-#optional {
-    color: lightskyblue;
-}
-
-#opt-ul {
+#optional-ul {
     color: chartreuse;
 }
 
@@ -137,8 +152,8 @@ container{
     color: yellow;
 }
 
-#social {
-    color: lightskyblue;
+#social-ul {
+    color: chartreuse;
 }
 
 #soc-1 {
@@ -151,14 +166,6 @@ container{
 
 #soc-3 {
     color: yellow;
-}
-
-#soc-ul {
-    color: chartreuse;
-}
-
-#quick-links {
-    color: lightskyblue;
 }
 
 #links-ul {
@@ -175,10 +182,6 @@ container{
 
 #link-3 {
     color: yellow;
-}
-
-#contact-info {
-    color: lightskyblue;
 }
 
 #contact-ul {
