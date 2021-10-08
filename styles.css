@@ -1,0 +1,201 @@
+body {
+    /* eliminate preformated spacing */
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+  
+container{
+    width: 100%;   
+}
+
+/* The bumpers allow for spacing at top and/or bottom */
+/* to compensate for phones which have buttons/cameras etc */
+/* that block a portion of the screen. */
+#bumper-top-container {
+    color: darkorchid;
+}
+#bumper-top {
+    color: darkorange;
+}
+
+
+#bumper-btm-container {
+    color: darkorange;
+}
+
+
+/* **HEADER** */
+#header-container {
+    color: white;
+}
+
+#header-row {
+    color: white;
+}
+
+#logo {
+    color: white;
+} 
+
+#header-spacer {
+    color: white;
+}
+
+.header-nav {
+    color: chocolate;
+}
+
+.navbar {
+    color: crimson;
+}
+
+.nav-item {
+    color: cyan;
+}
+
+.nav-link {
+    color: darkgoldenrod;
+}
+
+#navlnk1 {
+    color:darkkhaki;
+}
+
+#navlnk2 {
+    color:darkkhaki;
+}
+
+#navlnk3 {
+    color:darkkhaki;
+}
+
+
+/* **MAIN CONTENT** */
+#content-container {
+    color: white;
+}
+
+#content-row {
+    color: white;
+}
+
+#splash {
+    color: white;
+}
+
+
+/* **FORM** */
+#form-container {
+    color: white;
+}
+
+#form-row {
+    color: white;
+}
+
+#form {
+    color: white;
+}
+
+
+/* **FOOTER** */
+#footer-container {
+    color: white;
+}
+
+#footer-row {
+    color: red;
+}
+
+.footer-ul {
+    color: red;
+}
+
+.opt-li {
+    color: red;
+}
+
+#optional {
+    color: lightskyblue;
+}
+
+#opt-ul {
+    color: chartreuse;
+}
+
+#opt-1 {
+    color: yellow;
+}
+
+#opt-2 {
+    color: yellow;
+}
+
+#opt-3 {
+    color: yellow;
+}
+
+#social {
+    color: lightskyblue;
+}
+
+#soc-1 {
+    color: yellow;
+}
+
+#soc-2 {
+    color: yellow;
+}
+
+#soc-3 {
+    color: yellow;
+}
+
+#soc-ul {
+    color: chartreuse;
+}
+
+#quick-links {
+    color: lightskyblue;
+}
+
+#links-ul {
+    color: chartreuse;
+}
+
+#link-1 {
+    color: yellow;
+}
+
+#link-2 {
+    color: yellow;
+}
+
+#link-3 {
+    color: yellow;
+}
+
+#contact-info {
+    color: lightskyblue;
+}
+
+#contact-ul {
+    color: chartreuse;
+}
+
+#contact-1 {
+    color: yellow;
+}
+
+#contact-2 {
+    color: yellow;
+}
+
+#contact-3 {
+    color: yellow;
+}
+
+
+
